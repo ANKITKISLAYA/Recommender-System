@@ -4,7 +4,7 @@ Implementation :-
 
 1. myapp.py is the main driver file in which i have created the flask api configured with web file for deployment on IIS server.
 2. InsertRecSys.py is the programme to calculate the similarity matrix and insert it into mongodb .
-3. RecSys.py and RecSys2.py are the programmes to generate top n recommendations from mongodb .
+3. RecSys.py and RecSys2.py are the programmes to generate top n recommendations from mongodb without and with warehouseid .
 
 
 Deploying Flask app on IIS server
