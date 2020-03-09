@@ -1,4 +1,6 @@
-In this project i have created recommender system . Method used is item based collabrative filtering using surprise library 
+In this project i have created Recommender System using item based collabrative filtering using surprise library 
+ and also Api's using Flask for the purpose of deployment . 
+
 
 Implementation :-
 
